@@ -1,4 +1,4 @@
-# Mini-Task API — comparaison de performance (TP2 MRI)
+# Mini-Task API — comparaison de performance 
 
 > **Note de remise.** Les versions réellement installées et mesurées sont celles de `results/environment.txt` (Python 3.14.4, PHP 8.5.4, Nginx 1.28.3, Node.js 22.22.1, .NET 10) ; les versions citées plus bas (Python 3.12, PHP 8.3, .NET 8) sont celles visées au cadrage. Mesures finales : profil `reduced` avec essais de 8 s et 5 répétitions (voir `results/mesures_finales/run_config.json`).
 
